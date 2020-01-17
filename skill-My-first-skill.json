@@ -1,0 +1,1177 @@
+{
+  "intents": [
+    {
+      "intent": "Joke",
+      "examples": [
+        {
+          "text": "Do you know a joke"
+        },
+        {
+          "text": "Can you tell me a joke"
+        },
+        {
+          "text": "Do you have a joke for me"
+        },
+        {
+          "text": "Tell a joke"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Question10",
+      "examples": [
+        {
+          "text": "Where is the location of “De man in de stoel” in the painting?"
+        },
+        {
+          "text": "What is the location of “De man in de stoel” in the painting?"
+        },
+        {
+          "text": "Where was \"De man in de stoel\" painted?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Museum",
+      "examples": [
+        {
+          "text": "What do you think of this museum?"
+        },
+        {
+          "text": "Do you like this museum?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Question5",
+      "examples": [
+        {
+          "text": "How many people are their on the painting the \"intrige\"?"
+        },
+        {
+          "text": "How many people can you see on the “Intrige” painting?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Cava",
+      "examples": [
+        {
+          "text": "Is everything good?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "Cava?"
+        },
+        {
+          "text": "Hello, how are you?"
+        },
+        {
+          "text": "How are you?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Service",
+      "examples": [
+        {
+          "text": "I want to know the services provided by DIGIOTAI solutions."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Question9",
+      "examples": [
+        {
+          "text": "When was the \"Zelfportret\" painted?"
+        },
+        {
+          "text": "When was the “Zelfportret” of Jean- Auguste- Dominique- Ingres painted?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Greetings",
+      "examples": [
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good afternoon"
+        },
+        {
+          "text": "What's up"
+        },
+        {
+          "text": "Hi"
+        },
+        {
+          "text": "Hey"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hallo"
+        },
+        {
+          "text": "Good evening"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Question1",
+      "examples": [
+        {
+          "text": "Do you have any idea which art movement René Magritte uses?"
+        },
+        {
+          "text": "Do you know which art movement René Magritte uses?"
+        },
+        {
+          "text": "Which art movement uses René Magritte?"
+        },
+        {
+          "text": "What is the art movement that René Magritte uses?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Question7",
+      "examples": [
+        {
+          "text": "How much groups of statues did Auguste Rodin made in his atelier?"
+        },
+        {
+          "text": "How much statues did Auguste Rodin made?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "When",
+      "examples": [
+        {
+          "text": "When did you paint this?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Question11",
+      "examples": [
+        {
+          "text": "How many red baby’s are there with Madonna in \"the Artwork of Jean Fouquet\"?"
+        },
+        {
+          "text": "How many red baby’s are there with Madonna (Artwork of Jean Fouquet)"
+        },
+        {
+          "text": "How many red baby’s are there with Madonna?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Question14",
+      "examples": [
+        {
+          "text": "What is in the tree on “Zestien september”?"
+        },
+        {
+          "text": "What is in the tree of the painting “Zestien september”?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Ending",
+      "examples": [
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Bye"
+        },
+        {
+          "text": "Have a great day"
+        },
+        {
+          "text": "See ya"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Question16",
+      "examples": [
+        {
+          "text": "Which animal can we see in the back of the painting of the “Aanbidding door de koningen”?"
+        },
+        {
+          "text": "Which animal can we see in the back on “Aanbidding door de koningen”?"
+        },
+        {
+          "text": "Which animal can we see in the back on “Aanbidding door de koningen” (Peter Paul Rubbens)"
+        },
+        {
+          "text": "Which animal can we see in the back on “Aanbidding door de koningen” (Peter Paul Rubbens)?"
+        },
+        {
+          "text": "Which animal can we see in the back of the painting “Aanbidding door de koningen”?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "likedPainting",
+      "examples": [
+        {
+          "text": "Which painting is your favorite?"
+        },
+        {
+          "text": "What is your favorite painting?"
+        },
+        {
+          "text": "Which painting do you like the most?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Question15",
+      "examples": [
+        {
+          "text": "Why is it bright in the artwork “De man in de stoel”?"
+        },
+        {
+          "text": "Why is it so bright in the artwork of the “De man in de stoel”?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Thanking",
+      "examples": [
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "Thanks"
+        },
+        {
+          "text": "Merci"
+        },
+        {
+          "text": "I'm good thank you"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Question4",
+      "examples": [
+        {
+          "text": "What is probably the reason that the Heilige Barbara is sitting on the ground?"
+        },
+        {
+          "text": "Why is the Heilige Barbara sitting on the ground?"
+        },
+        {
+          "text": "What is probably the reason that the “Heilige Barbara” is sitting on the ground?"
+        },
+        {
+          "text": "Why would the Heilige Barbara sit on the ground?"
+        },
+        {
+          "text": "Why would the \"Heilige Barbara\" sit on the ground?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "YesNo",
+      "examples": [
+        {
+          "text": "No"
+        },
+        {
+          "text": "Yes"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Question6",
+      "examples": [
+        {
+          "text": "How did the 2 girls died on the painting of the “De twee meisjes als de heilige Agnes and Dorothea”?"
+        },
+        {
+          "text": "How did the 2 girls die on the painting of the painting of the“De twee meisjes als de heilige Agnes and Dorothea”?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "bestPainter",
+      "examples": [
+        {
+          "text": "Who do you think is the best painter?"
+        },
+        {
+          "text": "Who is your favorite painter?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Question13",
+      "examples": [
+        {
+          "text": "With who are the angels singing in the painting of \"Hans Memling\"?"
+        },
+        {
+          "text": "With who are the angels singing (Hans Memling)"
+        },
+        {
+          "text": "With who are the angels singing (Hans Memling)?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Question18",
+      "examples": [
+        {
+          "text": "What is the grandmother doing on the painting of the “Zoals de ouden zongen, piepen de jongen”?"
+        },
+        {
+          "text": "What is the grandmother doing on “Zoals de ouden zongen, piepen de jongen”?"
+        },
+        {
+          "text": "What is the grandmother doing on “Zoals de ouden zongen, piepen de jongen” (Jacob Jordaens)"
+        },
+        {
+          "text": "What is the grandmother doing on “Zoals de ouden zongen, piepen de jongen” (Jacob Jordaens)?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Age",
+      "examples": [
+        {
+          "text": "What is your age?"
+        },
+        {
+          "text": "How old are you?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Hobbies",
+      "examples": [
+        {
+          "text": "What are your hobbies?"
+        },
+        {
+          "text": "What do you like?"
+        },
+        {
+          "text": "What do you like to do in your spare time?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Question2",
+      "examples": [
+        {
+          "text": "By whom was Rubens inspired when he painted the “Aanbidding van de koningen”?"
+        },
+        {
+          "text": "By who was Rubens isnpired?"
+        },
+        {
+          "text": "By whom was Rubens inspired?"
+        },
+        {
+          "text": "By whom was Rubens inspired when he made the “Aanbidding van de koningen”?"
+        },
+        {
+          "text": "By who was Rubens inspired when he painted the “Aanbidding van de koningen”?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Question17",
+      "examples": [
+        {
+          "text": "What is the woman doing on “De strijkster” (Rik Wouters)"
+        },
+        {
+          "text": "What is the woman doing on the painting “De strijkster”?"
+        },
+        {
+          "text": "What is the woman doing on “De strijkster” (Rik Wouters)?"
+        },
+        {
+          "text": "What is the woman doing on “De strijkster”?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Question19",
+      "examples": [
+        {
+          "text": "What is the man looking at on “Zelfportret”?"
+        },
+        {
+          "text": "What is the man looking at on “Zelfportret” (Jean-Auguste-Dominique Ingres)"
+        },
+        {
+          "text": "What is the man looking at on the painting “Zelfportret”?"
+        },
+        {
+          "text": "What is the man looking at on “Zelfportret” (Jean-Auguste-Dominique Ingres)?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Question3",
+      "examples": [
+        {
+          "text": "What is the context of the “Val van de opstandige engelen”?"
+        },
+        {
+          "text": "About what is the “Val van de opstandige engelen”?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Question8",
+      "examples": [
+        {
+          "text": "In the painting of “Madonna omringd door serafijnen en cherubijnen”, for what stands the seraphim?"
+        },
+        {
+          "text": "For what stands the seraphim?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Question12",
+      "examples": [
+        {
+          "text": "Which color is the dress of Maria Sèthe in the \"Artwork Theo Van Rysselberghe\"?"
+        },
+        {
+          "text": "Which color is the dress of Maria Sèthe (Artwork Theo Van Rysselberghe)"
+        },
+        {
+          "text": "Which color is the dress of Maria Sèthe?"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "5",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I count 12 on that painting."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Question5",
+      "dialog_node": "node_8_1578560215118",
+      "previous_sibling": "node_1_1578560392861"
+    },
+    {
+      "type": "standard",
+      "title": "15",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Because the window is open."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Question15",
+      "dialog_node": "node_3_1578561116409",
+      "previous_sibling": "node_5_1578561197922"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Rembrandt van Rijn \n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Question2",
+      "dialog_node": "node_2_1578559961163",
+      "previous_sibling": "node_1_1578560025821"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No problem"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Thanking",
+      "dialog_node": "node_1_1578473789724",
+      "previous_sibling": "node_8_1578473960539"
+    },
+    {
+      "type": "standard",
+      "title": "Age",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I'm 32."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Age",
+      "dialog_node": "node_6_1578474050189",
+      "previous_sibling": "node_5_1578559867020"
+    },
+    {
+      "type": "standard",
+      "title": "18",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "She is reading a book."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Question18",
+      "dialog_node": "node_8_1578561330240",
+      "previous_sibling": "node_1_1578561400056"
+    },
+    {
+      "type": "standard",
+      "title": "16",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "There is a camel in the back."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Question16",
+      "dialog_node": "node_5_1578561197922",
+      "previous_sibling": "node_6_1578561262204"
+    },
+    {
+      "type": "standard",
+      "title": "1",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "He uses surrealism."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Question1",
+      "dialog_node": "node_5_1578559867020",
+      "previous_sibling": "node_2_1578559961163"
+    },
+    {
+      "type": "standard",
+      "title": "14",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You can see a moon in the tree."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Question14",
+      "dialog_node": "node_9_1578561049788",
+      "previous_sibling": "node_3_1578561116409"
+    },
+    {
+      "type": "standard",
+      "title": "Hobbies",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think it is pretty obvious that I like to paint."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Hobbies",
+      "dialog_node": "node_9_1578561605142",
+      "previous_sibling": "node_1_1578561679942"
+    },
+    {
+      "type": "standard",
+      "title": "Joke",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Woman to her husband while at it: \"Please say dirty things to me!\"\n\nMan: \"Bath, Kitchen, Living room...\""
+              },
+              {
+                "text": "Dentist: \"You need a crown.\"\n\nPatient: \"Finally someone who understands me\""
+              },
+              {
+                "text": "I don’t think women should be allowed to have kids after 40. \n\n40 kids is way too much by any standard."
+              },
+              {
+                "text": "What is pointless?\n\nTo tell a bald guy a hair-raising story."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Joke",
+      "dialog_node": "node_6_1578565023558",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "10",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "In the Brouwers House in Antwerp."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Question10",
+      "dialog_node": "node_2_1578560765981",
+      "previous_sibling": "node_4_1578560840528"
+    },
+    {
+      "type": "standard",
+      "title": "Ending",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Goodbye, good luck width the other questions. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Ending",
+      "dialog_node": "node_5_1578473700017",
+      "previous_sibling": "node_5_1578473635037"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_5_1578473700017",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "3",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The painting is about a biblical struggle between good and evil.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Question3",
+      "dialog_node": "node_1_1578560025821",
+      "previous_sibling": "node_4_1578560136895"
+    },
+    {
+      "type": "standard",
+      "title": "7",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "He made 12 statues."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Question7",
+      "dialog_node": "node_1_1578560469071",
+      "previous_sibling": "node_10_1578560544028"
+    },
+    {
+      "type": "standard",
+      "title": "12",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Her dress is purple."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Question12",
+      "dialog_node": "node_7_1578560919353",
+      "previous_sibling": "node_2_1578560980358"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "There are 7 babies in the painting."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Question11",
+      "dialog_node": "node_4_1578560840528",
+      "previous_sibling": "node_7_1578560919353"
+    },
+    {
+      "type": "standard",
+      "title": "Museum",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I really love this museum, all my favorite paintings are here."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Museum",
+      "dialog_node": "node_1_1578561679942",
+      "previous_sibling": "node_6_1578561761380"
+    },
+    {
+      "type": "standard",
+      "title": "13",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "They are singing with Christ."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Question13",
+      "dialog_node": "node_2_1578560980358",
+      "previous_sibling": "node_9_1578561049788"
+    },
+    {
+      "type": "standard",
+      "title": "YesNo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Okay"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#YesNo",
+      "dialog_node": "node_6_1578562219231",
+      "previous_sibling": "node_6_1578565023558"
+    },
+    {
+      "type": "standard",
+      "title": "8",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "They stand for the love and fire."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "dialog_node": "node_10_1578560544028",
+      "previous_sibling": "node_7_1578560654983"
+    },
+    {
+      "type": "standard",
+      "title": "Painter",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I really like Leonardo Da Vinci."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#bestPainter",
+      "dialog_node": "node_3_1578561455137",
+      "previous_sibling": "node_9_1578561605142"
+    },
+    {
+      "type": "standard",
+      "title": "4",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Because of her Humility."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Question4",
+      "dialog_node": "node_4_1578560136895",
+      "previous_sibling": "node_8_1578560215118"
+    },
+    {
+      "type": "standard",
+      "title": "9",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ingres painted between 1864 - 1865."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Question9",
+      "dialog_node": "node_7_1578560654983",
+      "previous_sibling": "node_2_1578560765981"
+    },
+    {
+      "type": "standard",
+      "title": "likedPainting",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I really like \"De man in de stoel\", because it is simple and pretty."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#likedPainting",
+      "dialog_node": "node_6_1578561761380",
+      "previous_sibling": "node_6_1578562219231"
+    },
+    {
+      "type": "standard",
+      "title": "Cava",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I'm good thank you. How are you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Cava",
+      "dialog_node": "node_8_1578473960539",
+      "previous_sibling": "node_6_1578474050189"
+    },
+    {
+      "type": "standard",
+      "title": "Greet",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Do you have a question for me?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Greetings",
+      "dialog_node": "node_5_1578473635037",
+      "previous_sibling": "node_1_1578473789724"
+    },
+    {
+      "type": "standard",
+      "title": "19",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "He is looking at me."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Question19",
+      "dialog_node": "node_1_1578561400056",
+      "previous_sibling": "node_3_1578561455137"
+    },
+    {
+      "type": "standard",
+      "title": "6",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "They died trough a sword."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Question6",
+      "dialog_node": "node_1_1578560392861",
+      "previous_sibling": "node_1_1578560469071"
+    },
+    {
+      "type": "standard",
+      "title": "17",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "She is ironing."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Question17",
+      "dialog_node": "node_6_1578561262204",
+      "previous_sibling": "node_8_1578561330240"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello. How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title"
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "My first skill",
+  "language": "en",
+  "description": ""
+}
