@@ -1,0 +1,4814 @@
+{
+  "intents": [
+    {
+      "intent": "WhatIsSpecial",
+      "examples": [
+        {
+          "text": "Why is this painting so special?"
+        },
+        {
+          "text": "What is special?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "MuseumClose",
+      "examples": [
+        {
+          "text": "When should i go home ?"
+        },
+        {
+          "text": "When does the museum close ?"
+        },
+        {
+          "text": "Is the museum closing soon ?"
+        },
+        {
+          "text": "When does this museum close?"
+        },
+        {
+          "text": "I want to go"
+        },
+        {
+          "text": "Do you know at what time the museum closes ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "WhatMadonnaDoing",
+      "examples": [
+        {
+          "text": "Why is the baby sitting on her lap ?"
+        },
+        {
+          "text": "What is madonna doing ?"
+        },
+        {
+          "text": "Is she breast feeding ?"
+        },
+        {
+          "text": "Why can we see her breast ?"
+        },
+        {
+          "text": "What is she doing ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Angels",
+      "examples": [
+        {
+          "text": "Angels ?"
+        },
+        {
+          "text": "How many angels are there ?"
+        },
+        {
+          "text": "How many seraphims and cherubims ?"
+        },
+        {
+          "text": "Are there 9 angels ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "WhyMadonna",
+      "examples": [
+        {
+          "text": "From who did he had to paint it?"
+        },
+        {
+          "text": "Why did he paint it?"
+        },
+        {
+          "text": "Who was the client?"
+        },
+        {
+          "text": "Why was it made ?"
+        },
+        {
+          "text": "Why did Jean Fouquet paint it?"
+        }
+      ]
+    },
+    {
+      "intent": "No",
+      "examples": [
+        {
+          "text": "No thanks"
+        },
+        {
+          "text": "I'm fine thank you"
+        },
+        {
+          "text": "NO"
+        },
+        {
+          "text": "No thank you"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "LikedAnimal",
+      "examples": [
+        {
+          "text": "I really like snakes."
+        },
+        {
+          "text": "I really like dogs."
+        },
+        {
+          "text": "I really like horses."
+        },
+        {
+          "text": "I really like rabbits."
+        },
+        {
+          "text": "I really like cats."
+        }
+      ]
+    },
+    {
+      "intent": "JeanFouquet",
+      "examples": [
+        {
+          "text": "Who is the painter of the madonna"
+        },
+        {
+          "text": "Jean Fouquet ?"
+        },
+        {
+          "text": "Who is the painter"
+        },
+        {
+          "text": "Tell me more about the painter"
+        },
+        {
+          "text": "Tell me about Jean Fouquet"
+        },
+        {
+          "text": "Who is Jean Fouquet"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Where",
+      "examples": [
+        {
+          "text": "What is this museum about ?"
+        },
+        {
+          "text": "Where are we ?"
+        },
+        {
+          "text": "In which museum are we ?"
+        },
+        {
+          "text": "What is this place ?"
+        },
+        {
+          "text": "What do you think of the museum ?"
+        },
+        {
+          "text": "Are we in a museum ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Cherubim",
+      "examples": [
+        {
+          "text": "What do the cherubim stand for?"
+        },
+        {
+          "text": "What is the meaning of the cherubim?"
+        },
+        {
+          "text": "What is the meaning of the cherubs?"
+        }
+      ]
+    },
+    {
+      "intent": "Yes",
+      "examples": [
+        {
+          "text": "Allright"
+        },
+        {
+          "text": "Yeah"
+        },
+        {
+          "text": "Sure"
+        },
+        {
+          "text": "Of course"
+        },
+        {
+          "text": "Okay"
+        },
+        {
+          "text": "I'd love to"
+        },
+        {
+          "text": "Yes"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Toilet",
+      "examples": [
+        {
+          "text": "Where are the toilets ?"
+        },
+        {
+          "text": "Restroom"
+        },
+        {
+          "text": "I need to shit"
+        },
+        {
+          "text": "Pipi"
+        },
+        {
+          "text": "Caca"
+        },
+        {
+          "text": "Toilet"
+        },
+        {
+          "text": "I need to pee"
+        },
+        {
+          "text": "Where can I wash my hands?"
+        },
+        {
+          "text": "Where is the restroom ?"
+        },
+        {
+          "text": "WC"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "HowScan",
+      "examples": [
+        {
+          "text": "How can I scan a painting ?"
+        },
+        {
+          "text": "How should I scan ?"
+        },
+        {
+          "text": "How should I scan the painting ?"
+        },
+        {
+          "text": "Why is the scanning not working ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "KMSKA",
+      "examples": [
+        {
+          "text": "kmska"
+        },
+        {
+          "text": "Since when is the painting in the museum?"
+        },
+        {
+          "text": "When did the museum had the painting?"
+        },
+        {
+          "text": "When did KMSKA bought the painting?"
+        },
+        {
+          "text": "Since when is the painting of KMSKA?"
+        },
+        {
+          "text": "Since when is the painting here?"
+        }
+      ]
+    },
+    {
+      "intent": "HelpChatbot",
+      "examples": [
+        {
+          "text": "How should i help"
+        },
+        {
+          "text": "How should I help you ?"
+        },
+        {
+          "text": "How can i help you ?"
+        },
+        {
+          "text": "What should i do"
+        },
+        {
+          "text": "How can i help"
+        },
+        {
+          "text": "How can i help you"
+        },
+        {
+          "text": "How should i help you"
+        },
+        {
+          "text": "What can i do to help you"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "DateMadonna",
+      "examples": [
+        {
+          "text": "When was it made?"
+        },
+        {
+          "text": "When was it painted?"
+        },
+        {
+          "text": "When was the Madonna omringd door serafijnen en cherubijnen painted?"
+        },
+        {
+          "text": "When was Madonna omringd door serafijnen en cherubijnen made?"
+        }
+      ]
+    },
+    {
+      "intent": "Buyer",
+      "examples": [
+        {
+          "text": "Who bought the painting?"
+        },
+        {
+          "text": "From who was the painting first?"
+        },
+        {
+          "text": "Who was the first buyer?"
+        },
+        {
+          "text": "Who bought it?"
+        }
+      ]
+    },
+    {
+      "intent": "Age",
+      "examples": [
+        {
+          "text": "What is your age ?"
+        },
+        {
+          "text": "When were you born ?"
+        },
+        {
+          "text": "How old are you ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "What",
+      "examples": [
+        {
+          "text": "What can you see on the painting?"
+        },
+        {
+          "text": "What do you see on the painting?"
+        },
+        {
+          "text": "What is this painting ?"
+        },
+        {
+          "text": "What is this masterpiece ?"
+        },
+        {
+          "text": "What is this ?"
+        },
+        {
+          "text": "What is on the painting ?"
+        }
+      ]
+    },
+    {
+      "intent": "StoryMadonna",
+      "examples": [
+        {
+          "text": "Can you tell me more about the story of this painting ?"
+        },
+        {
+          "text": "What is the meaning of the painting?"
+        },
+        {
+          "text": "About what is the painting"
+        },
+        {
+          "text": "About what is the Madonna omringd door serafijnen en cherubijnen?"
+        },
+        {
+          "text": "What is the story?"
+        },
+        {
+          "text": "What is the story of the Madonna omringd door serafijnen en cherubijnen?"
+        },
+        {
+          "text": "Do you know what more about the Madonna omringd door serafijnen en cherubijnen?"
+        },
+        {
+          "text": "What do you know about the Madonna omringd door serafijnen en cherubijnen?"
+        },
+        {
+          "text": "About what is it?"
+        },
+        {
+          "text": "What is the story of the painting?"
+        },
+        {
+          "text": "i want to know a little bit more about the painting"
+        },
+        {
+          "text": "About what is the painting?"
+        },
+        {
+          "text": "I would like to know more about the painting"
+        },
+        {
+          "text": "Can you tell me more about the story of it ?"
+        }
+      ]
+    },
+    {
+      "intent": "WherePainting",
+      "examples": [
+        {
+          "text": "Where can i find paintings"
+        },
+        {
+          "text": "Where is the Madonna"
+        },
+        {
+          "text": "Where is that painting"
+        },
+        {
+          "text": "Where is the Intrige"
+        },
+        {
+          "text": "How can i find a painting"
+        },
+        {
+          "text": "Where can i find this painting ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "BestWork",
+      "examples": [
+        {
+          "text": "Jean fouquet most proud painting ?"
+        },
+        {
+          "text": "Best painting ?"
+        },
+        {
+          "text": "What is the best work of Jean Fouquet ?"
+        },
+        {
+          "text": "Madonna best ?"
+        },
+        {
+          "text": "Finest work of Jean Fouquet ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Question8",
+      "examples": [
+        {
+          "text": "For what stands the seraphim?"
+        },
+        {
+          "text": "Are these devils ?"
+        },
+        {
+          "text": "Are these angels or devils ?"
+        },
+        {
+          "text": "Why are the baby's red"
+        },
+        {
+          "text": "In the painting of “Madonna omringd door serafijnen en cherubijnen”, for what stands the seraphim?"
+        },
+        {
+          "text": "What are the seraphims?"
+        },
+        {
+          "text": "what is the meaning of the seraphic?"
+        },
+        {
+          "text": "What is the meaning of the seraphims?"
+        }
+      ]
+    },
+    {
+      "intent": "StoryDumbChatbot",
+      "examples": [
+        {
+          "text": "How did you become dumb ?"
+        },
+        {
+          "text": "What happened to you ?"
+        },
+        {
+          "text": "How did you loose your knowledge?"
+        },
+        {
+          "text": "Why are you so dumb ?"
+        },
+        {
+          "text": "Why did you forget everything ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Madonna",
+      "examples": [
+        {
+          "text": "Who is this Madonna ?"
+        },
+        {
+          "text": "Who is Madonna ?"
+        },
+        {
+          "text": "Where does Madonna come from ?"
+        },
+        {
+          "text": "Who is the woman on the painting ?"
+        },
+        {
+          "text": "Madonna ?"
+        }
+      ]
+    },
+    {
+      "intent": "Famous",
+      "examples": [
+        {
+          "text": "For what was she famous?"
+        },
+        {
+          "text": "Why was she famous?"
+        },
+        {
+          "text": "For what was Madonna famous?"
+        }
+      ]
+    },
+    {
+      "intent": "Hobbies",
+      "examples": [
+        {
+          "text": "What are your hobbies?"
+        },
+        {
+          "text": "What do you like to do in your spare time?"
+        },
+        {
+          "text": "What do you like?"
+        }
+      ]
+    },
+    {
+      "intent": "PainterMadonna",
+      "examples": [
+        {
+          "text": "Who was the painter?"
+        },
+        {
+          "text": "Do you know the painter?"
+        },
+        {
+          "text": "who painted it"
+        },
+        {
+          "text": "Who painted it?"
+        },
+        {
+          "text": "Do you know who the painter is?"
+        }
+      ]
+    },
+    {
+      "intent": "Red",
+      "examples": []
+    },
+    {
+      "intent": "MaterialMadonna",
+      "examples": [
+        {
+          "text": "With which material is the painting made?"
+        },
+        {
+          "text": "with which material was it made?"
+        },
+        {
+          "text": "With what kind of paint is the painting made?"
+        }
+      ]
+    },
+    {
+      "intent": "NoSeraphims",
+      "examples": [
+        {
+          "text": "No I didn't, and what does the cherubim stand for ?"
+        },
+        {
+          "text": "No I didn't"
+        }
+      ]
+    },
+    {
+      "intent": "bestPainter",
+      "examples": [
+        {
+          "text": "Which painter is the best ?"
+        },
+        {
+          "text": "Who is your favorite painter ?"
+        },
+        {
+          "text": "Who do you think is the best painter ?"
+        },
+        {
+          "text": "Who is your favorite painter?"
+        },
+        {
+          "text": "Who do you think is the best painter?"
+        },
+        {
+          "text": "Which painter do you like ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "likedPainting",
+      "examples": [
+        {
+          "text": "Which painting is your favorite?"
+        },
+        {
+          "text": "Which painting do you like the most?"
+        },
+        {
+          "text": "What is your favorite painting?"
+        }
+      ]
+    },
+    {
+      "intent": "RedAndBlue",
+      "examples": [
+        {
+          "text": "Why red and blue ?"
+        },
+        {
+          "text": "Why red and blue angels ?"
+        },
+        {
+          "text": "Why so much red and blue ?"
+        },
+        {
+          "text": "Why red and blue on this painting ?"
+        },
+        {
+          "text": "Red and blue ?"
+        }
+      ]
+    },
+    {
+      "intent": "Bye",
+      "examples": [
+        {
+          "text": "Bye"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "Ciao"
+        },
+        {
+          "text": "Good night"
+        },
+        {
+          "text": "Good afternoon"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "MeasuresMadonna",
+      "examples": [
+        {
+          "text": "How big is the painting?"
+        },
+        {
+          "text": "What are the measures of this painting?"
+        },
+        {
+          "text": "How big is it?"
+        },
+        {
+          "text": "What is the size?"
+        },
+        {
+          "text": "What size is the painting?"
+        }
+      ]
+    },
+    {
+      "intent": "Difference",
+      "examples": [
+        {
+          "text": "whats the difference between the angels"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Animal",
+      "examples": [
+        {
+          "text": "What is yout most favourite animal?"
+        },
+        {
+          "text": "Which animal do you like the most?"
+        },
+        {
+          "text": "What animal do you love?"
+        },
+        {
+          "text": "What is your most favourite animal?"
+        }
+      ]
+    },
+    {
+      "intent": "Thanking",
+      "examples": [
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "Thanks"
+        },
+        {
+          "text": "Merci"
+        },
+        {
+          "text": "Thanks."
+        }
+      ]
+    },
+    {
+      "intent": "MadonnaChild",
+      "examples": [
+        {
+          "text": "Who is the child on her lap"
+        },
+        {
+          "text": "Why is the child on Madonna's lap"
+        },
+        {
+          "text": "Why can we see her boobs ?"
+        },
+        {
+          "text": "Why can we see her breast ?"
+        },
+        {
+          "text": "What is the baby on Madonna doing ?"
+        },
+        {
+          "text": "Who is the baby on Madonna"
+        },
+        {
+          "text": "What is the relation between Madonna and the child ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "LearnMore",
+      "examples": [
+        {
+          "text": "Yes I'd love to learn mroe"
+        },
+        {
+          "text": "Tell me more about the painting"
+        },
+        {
+          "text": "I want to learn more about the painting"
+        },
+        {
+          "text": "Yes i want to learn about the painting"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "UseOfApp",
+      "examples": [
+        {
+          "text": "How should I use this app ?"
+        },
+        {
+          "text": "What is this app for ?"
+        },
+        {
+          "text": "What can I do with this app ?"
+        },
+        {
+          "text": "UseOfApp"
+        },
+        {
+          "text": "UseOfApp ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "MadonnaLive",
+      "examples": [
+        {
+          "text": "Does madonna live"
+        },
+        {
+          "text": "Where does madonna live"
+        },
+        {
+          "text": "Is she alive"
+        },
+        {
+          "text": "madonna real person"
+        },
+        {
+          "text": "When did madonna die"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Crown",
+      "examples": [
+        {
+          "text": "Is she an eminence ?"
+        },
+        {
+          "text": "Cloak"
+        },
+        {
+          "text": "Why is wearing a crown ?"
+        },
+        {
+          "text": "Is she a queen ?"
+        },
+        {
+          "text": "Is she important ?"
+        },
+        {
+          "text": "Is she on a throne"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "OpinionOnPainting",
+      "examples": [
+        {
+          "text": "No"
+        },
+        {
+          "text": "Yes I like it"
+        },
+        {
+          "text": "of course"
+        },
+        {
+          "text": "Bad"
+        },
+        {
+          "text": "Not very nice"
+        },
+        {
+          "text": "I like the name"
+        },
+        {
+          "text": "I like madonna"
+        },
+        {
+          "text": "Yes it is a nice painting"
+        },
+        {
+          "text": "Yes"
+        },
+        {
+          "text": "Not really nice"
+        },
+        {
+          "text": "Ugly"
+        },
+        {
+          "text": "It is beautiful"
+        },
+        {
+          "text": "It is nice"
+        },
+        {
+          "text": "Yes indeed"
+        },
+        {
+          "text": "Yes indeed it is"
+        },
+        {
+          "text": "Good"
+        },
+        {
+          "text": "I don't like it"
+        },
+        {
+          "text": "I love it"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "HowAreYou",
+      "examples": [
+        {
+          "text": "How do you feel"
+        },
+        {
+          "text": "Thank you and you how are you feeling?"
+        },
+        {
+          "text": "Hi how are you doing"
+        },
+        {
+          "text": "Are you okay"
+        },
+        {
+          "text": "How are you"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Name",
+      "examples": [
+        {
+          "text": "How can I call you?"
+        },
+        {
+          "text": "What is your name?"
+        },
+        {
+          "text": "Name ?"
+        },
+        {
+          "text": "Name?"
+        },
+        {
+          "text": "Who are you ?"
+        },
+        {
+          "text": "Whats your name ?"
+        },
+        {
+          "text": "what is your name"
+        },
+        {
+          "text": "My name is Kevin and you ?"
+        },
+        {
+          "text": "#Name"
+        },
+        {
+          "text": "Hi what is your name ?"
+        },
+        {
+          "text": "What's your name ?"
+        },
+        {
+          "text": "How should I call you ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Ending",
+      "examples": [
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Bye"
+        },
+        {
+          "text": "Good afternoon"
+        }
+      ]
+    },
+    {
+      "intent": "WhatCanYouSee",
+      "examples": [
+        {
+          "text": "What is on the painting?"
+        },
+        {
+          "text": "Which elements are on the painting?"
+        },
+        {
+          "text": "What can you see?"
+        },
+        {
+          "text": "What do you see on the painting?"
+        },
+        {
+          "text": "what can you see on the painting,"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Museum",
+      "examples": [
+        {
+          "text": "Do you like this museum?"
+        },
+        {
+          "text": "What do you think of this museum?"
+        }
+      ]
+    },
+    {
+      "intent": "Joke",
+      "examples": [
+        {
+          "text": "Do you know a joke"
+        },
+        {
+          "text": "Do you have a joke for me"
+        },
+        {
+          "text": "Tell a joke"
+        },
+        {
+          "text": "Can you tell me a joke"
+        }
+      ]
+    },
+    {
+      "intent": "WhyLikeMadonna",
+      "examples": [
+        {
+          "text": "Why is it so nice"
+        },
+        {
+          "text": "Why is this painting here"
+        },
+        {
+          "text": "Why do people like this painting"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "color",
+      "examples": [
+        {
+          "text": "red"
+        },
+        {
+          "text": "orange"
+        },
+        {
+          "text": "rose"
+        },
+        {
+          "text": "apple blue sea green"
+        },
+        {
+          "text": "beige"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Weather",
+      "examples": [
+        {
+          "text": "Weather ?"
+        },
+        {
+          "text": "Do you like the weather in Belgium ?"
+        },
+        {
+          "text": "Do you like the weather ?"
+        },
+        {
+          "text": "What do you think of the weather in Belgium ?"
+        },
+        {
+          "text": "What do you think of the weather today ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "DieJeanFouquet",
+      "examples": [
+        {
+          "text": "From when to when did jean fouquet live"
+        },
+        {
+          "text": "When did Jean Fouquet die ?"
+        },
+        {
+          "text": "Does jean fouquet still live"
+        },
+        {
+          "text": "Jean fouquet died from what"
+        },
+        {
+          "text": "How did Jean Fouquet die"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Okay",
+      "examples": [
+        {
+          "text": "Okay"
+        },
+        {
+          "text": "OK"
+        },
+        {
+          "text": "Oke"
+        },
+        {
+          "text": "Allright"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "WherePainter",
+      "examples": [
+        {
+          "text": "From where is Jean Fouquet?"
+        },
+        {
+          "text": "From where is the painter?"
+        },
+        {
+          "text": "Where was Jean Fouquet born?"
+        },
+        {
+          "text": "Where was the paiter born?"
+        }
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "entity": "popular",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "It was popular at that time.",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Hobby",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Hobby",
+          "synonyms": [
+            "Hobbies",
+            "Spare time",
+            "hobby"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "WrongAnswer",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "They all are their to gard Mary and Jesus",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "ILike",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "like",
+          "synonyms": [
+            "love",
+            "prefer",
+            "good",
+            "like",
+            "favorite"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "child",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "breastfeeding",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Child",
+          "synonyms": [
+            "Baby",
+            "Kid",
+            "Breast feeding",
+            "boobs",
+            "boob"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "14thCentury",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "14th century",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Jesus",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Jesus",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "ColorWrong",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Those were his favorite colors.",
+          "synonyms": [
+            "He did not really had a reason for it."
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Date",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "in 1454",
+          "synonyms": [
+            "in 1455",
+            "in 1456",
+            "between 1454 - 1456"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "9",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "9",
+          "synonyms": [
+            "nine"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "15thcentury",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "15th century",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Seraphim",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "The six red seraphim are angels from the highest rank",
+          "synonyms": [
+            "they stand for love and fire."
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Yes",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Yes",
+          "synonyms": [
+            "Sounds good",
+            "Sure",
+            "Why not"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Wrong",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Between 1516 and 1518",
+          "synonyms": [
+            "Between 1812 and 1814"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Color",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "red",
+          "synonyms": [
+            "blue",
+            "green",
+            "orange",
+            "red",
+            "rose",
+            "yellow",
+            "brown",
+            "black",
+            "white",
+            "purple",
+            "apple blue sea green ",
+            "color"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "No",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "No",
+          "synonyms": [
+            "No, thanks",
+            "No, thank you",
+            "nope"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "NoIdea",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "No idea",
+          "synonyms": [
+            "No"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Madonna",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Madonna",
+          "synonyms": [
+            "Mary",
+            "Virgin Mary",
+            "it",
+            "this painting ",
+            "this",
+            "painting"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "8",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "1",
+          "synonyms": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Cherubim",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "The three blue cherubims are angels who",
+          "synonyms": [
+            "angels who gard god and his properties.",
+            "The color stand for purity and air."
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "CorrectAnswer",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "They are 2 kind of angels: the red ones are the",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "No ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Fouquet grew up there. It is in the west of France."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1579619004238",
+      "conditions": "@No",
+      "dialog_node": "node_3_1579619795447",
+      "previous_sibling": "node_2_1579619784796"
+    },
+    {
+      "type": "standard",
+      "title": "Yes ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Oh nice, Fouquet grew up there. It is in the west of France."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1579619004238",
+      "conditions": "@Yes",
+      "dialog_node": "node_2_1579619784796"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You can see Jesus on Mary's lap."
+              },
+              {
+                "text": "What do you think that Mary and Jesus are doing in the painting?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_2_1579684622859",
+      "conditions": "@NoIdea",
+      "dialog_node": "node_23_1579684767166",
+      "previous_sibling": "node_20_1579684760322"
+    },
+    {
+      "type": "standard",
+      "title": "Correct ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, that is right, but honestly it was not that hard. "
+              },
+              {
+                "text": "What do you think that Mary and Jesus are doing in the painting?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_2_1579684622859",
+      "conditions": "@Jesus",
+      "dialog_node": "node_20_1579684760322"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Fouquet grew up there. It is in the west of France."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1579618993067",
+      "conditions": "@No",
+      "dialog_node": "node_2_1579619559990",
+      "previous_sibling": "node_5_1579619550272"
+    },
+    {
+      "type": "standard",
+      "title": "Yes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Oh nice, Fouquet grew up there. It is in the west of France."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1579618993067",
+      "conditions": "@Yes",
+      "dialog_node": "node_5_1579619550272"
+    },
+    {
+      "type": "standard",
+      "title": "BlueRedAnswer",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Well the blue angels represent purity and air."
+              },
+              {
+                "text": "And the red angels represent love and fire."
+              },
+              {
+                "text": "I'm pretty sure you missed an angel. So how many angels can you find on the painting ? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1579602819883",
+      "conditions": "anything_else",
+      "dialog_node": "node_2_1579603832392"
+    },
+    {
+      "type": "standard",
+      "title": "Correct ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, you almost know as much as me.\n"
+              },
+              {
+                "text": "Okay we'll see if you know this too: What is the meaning of the red and blue angels in the background?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_4_1579618176884",
+      "conditions": "@Date",
+      "dialog_node": "node_6_1579685097736",
+      "previous_sibling": "node_3_1579685092532"
+    },
+    {
+      "type": "standard",
+      "title": "Date ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No, Fouquet painted it between 1454 and 1456."
+              },
+              {
+                "text": "Okay I am going to ask something more difficult: What is the meaning of the red and blue angels in the background?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_4_1579618176884",
+      "conditions": "@Wrong",
+      "dialog_node": "node_3_1579685092532"
+    },
+    {
+      "type": "standard",
+      "title": "NumberOfAngels",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Red is for fire and love. "
+              },
+              {
+                "text": "Blue is for purity and air."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_4_1579615632409",
+      "conditions": "anything_else",
+      "dialog_node": "node_4_1579615710588"
+    },
+    {
+      "type": "standard",
+      "title": "Hobby",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Interesting hobby. But I think I would still prefer to paint. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1579596843766",
+      "conditions": "anything_else",
+      "dialog_node": "node_2_1579620107630"
+    },
+    {
+      "type": "standard",
+      "title": "AnyName",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nice to meet you. If you have any questions feel free to ask them. "
+              },
+              {
+                "text": "Hopefully I will remember enough to answer them."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_3_1579516492425",
+      "conditions": "anything_else",
+      "dialog_node": "node_9_1579619501547"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong  ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No, the three blue cherubims are angels who gard god and his properties. The color stand for purity and air."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1579685555175",
+      "conditions": "anything_else",
+      "dialog_node": "node_15_1579685756781",
+      "previous_sibling": "node_14_1579685754841"
+    },
+    {
+      "type": "standard",
+      "title": "Correct ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, you are right. The three blue cherubims are angels who gard god and his properties. The color stand for purity and air."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1579685555175",
+      "conditions": "@Cherubim",
+      "dialog_node": "node_14_1579685754841"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The red angels are serpahims, they are angels from the highest rank. Their color stands for love and fire. The blue ones are cherubims, they protect God and his property. Their color stand for air and purity."
+              },
+              {
+                "text": "That is all the important information I had. If you want to know more you can always ask me questions. I will hopefully remember it all. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_6_1579685097736",
+      "conditions": "@WrongAnswer",
+      "dialog_node": "node_8_1579685097751",
+      "previous_sibling": "node_7_1579685097751"
+    },
+    {
+      "type": "standard",
+      "title": "Correct",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You are correct again. Just some extra info to explain the title of the painting: The red angels are actually seraphims called and the blue angels cherubims."
+              },
+              {
+                "text": "That is all the important information I had. If you want to know more you can always ask me questions. I will hopefully remember it all. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_6_1579685097736",
+      "conditions": "@CorrectAnswer",
+      "dialog_node": "node_7_1579685097751"
+    },
+    {
+      "type": "standard",
+      "title": "Correct",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, that is correct. Just some extra info to explain the title of the painting: The red angels are actually seraphims called and the blue angels cherubims."
+              },
+              {
+                "text": "That is all the important information I had. If you want to know more you can always ask me questions. I will hopefully remember it all. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_2_1579612175386",
+      "conditions": "@CorrectAnswer",
+      "dialog_node": "node_1_1579617391326",
+      "previous_sibling": "node_7_1579617307772"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The red angels are serpahims, they are angels from the highest rank. Their color stands for love and fire. The blue ones are cherubims, they protect God and his property. Their color stand for air and purity."
+              },
+              {
+                "text": "This is all the important information I had. If you want to know more you can always ask me questions. I will hopefully remember it all. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_2_1579612175386",
+      "conditions": "@WrongAnswer",
+      "dialog_node": "node_7_1579617307772"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I like them too ! "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1579597275745",
+      "conditions": "anything_else",
+      "dialog_node": "node_2_1579597546231"
+    },
+    {
+      "type": "standard",
+      "title": "Color",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I like that color too. "
+              },
+              {
+                "text": "Do you want me to tell you more about the painting ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_1_1579610950434",
+      "conditions": "@Color",
+      "dialog_node": "node_6_1579602226888"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The blue cherubims are angels that protect God and his property. Their color stand for air and purity."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1579612388447",
+      "conditions": "anything_else",
+      "dialog_node": "node_1_1579685299437",
+      "previous_sibling": "node_2_1579685328388"
+    },
+    {
+      "type": "standard",
+      "title": "Correct",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, that is right. The six red seraphim are angels from the highest rank, they stand for love and fire."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1579612388447",
+      "conditions": "@Seraphim",
+      "dialog_node": "node_2_1579685328388"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Unfortunately, you're wrong. You couldn't find them all. There are 9 angels on this painting. 3 blue angels and 6 red angels. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1579603832392",
+      "conditions": "anything_else",
+      "dialog_node": "node_5_1579683322909",
+      "previous_sibling": "node_5_1579683096408"
+    },
+    {
+      "type": "standard",
+      "title": "correct",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, correct ! You were able to find them all ! "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1579603832392",
+      "conditions": "@9",
+      "dialog_node": "node_5_1579683096408"
+    },
+    {
+      "type": "standard",
+      "title": "Correct  ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, you almost know as much as me."
+              },
+              {
+                "text": "Okay I am going to ask something more difficult, see if you know this one too. What is the meaning of the red and blue angels in the background?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_4_1579683713086",
+      "conditions": "@Date",
+      "dialog_node": "node_12_1579684227810",
+      "previous_sibling": "node_6_1579684055826"
+    },
+    {
+      "type": "standard",
+      "title": "Date ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No, Fouquet painted it between 1454 and 1456."
+              },
+              {
+                "text": "Okay I am going to ask something more difficult: What is the meaning of the red and blue angels in the background?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_4_1579683713086",
+      "conditions": "anything_else",
+      "dialog_node": "node_6_1579684055826"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong  ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The six red seraphim are angels from the highest rank, they stand for love and fire."
+              },
+              {
+                "text": "Maybe you know this one. What is the meaning of the blue ones?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_1_1579609779188",
+      "conditions": "anything_else",
+      "dialog_node": "node_11_1579685557870",
+      "previous_sibling": "node_10_1579685555175"
+    },
+    {
+      "type": "standard",
+      "title": "Correct ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, you are right. The six red seraphim are angels from the highest rank, they stand for love and fire."
+              },
+              {
+                "text": "Do you have any idea what the meaning of the blue angels is since you knew something so difficult.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_1_1579609779188",
+      "conditions": "@Cherubim",
+      "dialog_node": "node_10_1579685555175"
+    },
+    {
+      "type": "standard",
+      "title": "color",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I especially like the colors. Mostly the red and blue angels, because these colors were used a lot at that time. "
+              },
+              {
+                "text": "What is your favorite color?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#OpinionOnPainting && @Yes || @No",
+      "dialog_node": "node_1_1579610950434"
+    },
+    {
+      "type": "standard",
+      "title": "Correct",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, that is correct. Just some extra info to explain the title of the painting: The red angels are actually seraphims called and the blue angels cherubims."
+              },
+              {
+                "text": "That is all the important information I had. If you want to know more you can always ask me questions. I will hopefully remember it all. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_3_1579685092532",
+      "conditions": "@CorrectAnswer",
+      "dialog_node": "node_5_1579685092546",
+      "previous_sibling": "node_4_1579685092546"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The red angels are serpahims, they are angels from the highest rank. Their color stands for love and fire. The blue ones are cherubims, they protect God and his property. Their color stand for air and purity."
+              },
+              {
+                "text": "That is all the important information I had. If you want to know more you can always ask me questions. I will hopefully remember it all. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_3_1579685092532",
+      "conditions": "@WrongAnswer",
+      "dialog_node": "node_4_1579685092546"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Unfortunately, you're wrong. You couldn't find them all. There are 9 angels on this painting. 3 blue angels and 6 red angels. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1579683853437",
+      "conditions": "@3 || @6 || @8",
+      "dialog_node": "node_10_1579683853437",
+      "previous_sibling": "node_9_1579683853437"
+    },
+    {
+      "type": "standard",
+      "title": "correct",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, correct ! You were able to find them all ! "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1579683853437",
+      "conditions": "@9",
+      "dialog_node": "node_9_1579683853437"
+    },
+    {
+      "type": "standard",
+      "title": "BlueRedAnswer",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Well the blue angels represent purity and air."
+              },
+              {
+                "text": "And the red angels represent love and fire."
+              },
+              {
+                "text": "I'm pretty sure you missed an angel. So how many angels can you find on the painting ? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_13_1579685017312",
+      "conditions": "@NoIdea",
+      "dialog_node": "node_14_1579685017318"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No, you can see that Mary wants to breastfeed him but he is not interested."
+              },
+              {
+                "text": "I'm going to let you look at the painting. Thank you for helping me get my memory back. If you have other questions you can always ask or if you want to help me remember the other paintings that would be amazing."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_29_1579684815591",
+      "conditions": "anything_else",
+      "dialog_node": "node_31_1579684815601",
+      "previous_sibling": "node_30_1579684815601"
+    },
+    {
+      "type": "standard",
+      "title": "Correct ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, that is right. Mary tries to breastfeed him, but he is not interesting. "
+              },
+              {
+                "text": "I'm going to let you look at the painting. Thank you for helping me get my memory back. If you have other questions you can always ask or if you want to help me remember the other paintings that would be amazing."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_29_1579684815591",
+      "conditions": "@child",
+      "dialog_node": "node_30_1579684815601"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No, you can see Jesus on Mary's lap."
+              },
+              {
+                "text": "What do you think that Mary and Jesus are doing in the painting?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_1_1579618684831",
+      "conditions": "@NoIdea",
+      "dialog_node": "node_29_1579684815591",
+      "previous_sibling": "node_26_1579684812343"
+    },
+    {
+      "type": "standard",
+      "title": "Correct ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, that is right, but honestly it was not that hard. "
+              },
+              {
+                "text": "What do you think that Mary and Jesus are doing in the painting?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_1_1579618684831",
+      "conditions": "@Jesus",
+      "dialog_node": "node_26_1579684812343"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Oh, so are younger than me. Well I'm pretty sure I could use your help. Do you think you can help me ? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1579597254745",
+      "conditions": "anything_else",
+      "dialog_node": "node_1_1579597765868"
+    },
+    {
+      "type": "standard",
+      "title": "Correct",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, that is correct. Just some extra info to explain the title of the painting: The red angels are actually seraphims called and the blue angels cherubims."
+              },
+              {
+                "text": "That is all the important information I had. If you want to know more you can always ask me questions. I will hopefully remember it all. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_9_1579684105108",
+      "conditions": "@CorrectAnswer",
+      "dialog_node": "node_11_1579684105121",
+      "previous_sibling": "node_10_1579684105121"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The red angels are serpahims, they are angels from the highest rank. Their color stands for love and fire. The blue ones are cherubims, they protect God and his property. Their color stand for air and purity."
+              },
+              {
+                "text": "That is all the important information I had. If you want to know more you can always ask me questions. I will hopefully remember it all. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_9_1579684105108",
+      "conditions": "@WrongAnswer",
+      "dialog_node": "node_10_1579684105121"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No problem. You can always scan another painting. Maybe that will help me get my memory back! "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1579602226888",
+      "conditions": "@No",
+      "dialog_node": "node_8_1579611868416",
+      "previous_sibling": "node_3_1579611828841"
+    },
+    {
+      "type": "standard",
+      "title": "Yes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Okay, good when do you think this painting has been created ? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1579602226888",
+      "conditions": "@Yes",
+      "dialog_node": "node_3_1579611828841"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Okay, no problem. If you have any question you can always ask me."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1579616750538",
+      "conditions": "@No",
+      "dialog_node": "node_3_1579686384132",
+      "previous_sibling": "node_10_1579686382134"
+    },
+    {
+      "type": "standard",
+      "title": "Yes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What do you think is the reason that Fouquet used red and blue?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1579616750538",
+      "conditions": "@Yes",
+      "dialog_node": "node_10_1579686382134"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You can see that Mary wants to breastfeed him but he is not interested."
+              },
+              {
+                "text": "I'm going to let you look at the painting. Thank you for helping me get my memory back. If you have other questions you can always ask or if you want to help me remember the other paintings that would be amazing."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_23_1579684767166",
+      "conditions": "anything_else",
+      "dialog_node": "node_25_1579684767179",
+      "previous_sibling": "node_24_1579684767179"
+    },
+    {
+      "type": "standard",
+      "title": "Correct ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, that is right. Mary tries to breastfeed him, but he is not interesting. "
+              },
+              {
+                "text": "I'm going to let you look at the painting. Thank you for helping me get my memory back. If you have other questions you can always ask or if you want to help me remember the other paintings that would be amazing."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_23_1579684767166",
+      "conditions": "@child",
+      "dialog_node": "node_24_1579684767179"
+    },
+    {
+      "type": "standard",
+      "title": "Correct",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, you almost know as much as me.\n"
+              },
+              {
+                "text": "Okay we'll see if you know this too: What is the meaning of the red and blue angels in the background?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_3_1579611828841",
+      "conditions": "@Date",
+      "dialog_node": "node_3_1579616147190",
+      "previous_sibling": "node_2_1579612175386"
+    },
+    {
+      "type": "standard",
+      "title": "Date",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No, Fouquet painted it between 1454 and 1456."
+              },
+              {
+                "text": "Okay I am going to ask something more difficult: What is the meaning of the red and blue angels in the background?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_3_1579611828841",
+      "conditions": "anything_else",
+      "dialog_node": "node_2_1579612175386"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The red angels are serpahims, they are angels from the highest rank. Their color stands for love and fire. The blue ones are cherubims, they protect God and his property. Their color stand for air and purity."
+              },
+              {
+                "text": "That is all the important information I had. If you want to know more you can always ask me questions. I will hopefully remember it all. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_15_1579684230923",
+      "conditions": "@WrongAnswer",
+      "dialog_node": "node_17_1579684230934",
+      "previous_sibling": "node_16_1579684230934"
+    },
+    {
+      "type": "standard",
+      "title": "Correct",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You are correct again. Just some extra info to explain the title of the painting: The red angels are actually seraphims called and the blue angels cherubims."
+              },
+              {
+                "text": "That is all the important information I had. If you want to know more you can always ask me questions. I will hopefully remember it all. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_15_1579684230923",
+      "conditions": "@CorrectAnswer",
+      "dialog_node": "node_16_1579684230934"
+    },
+    {
+      "type": "standard",
+      "title": "BlueRedAnswer",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Well the blue angels represent purity and air."
+              },
+              {
+                "text": "And the red angels represent love and fire."
+              },
+              {
+                "text": "I'm pretty sure you missed an angel. So how many angels can you find on the painting ? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_17_1579685047602",
+      "conditions": "anything_else",
+      "dialog_node": "node_18_1579685047607"
+    },
+    {
+      "type": "standard",
+      "title": "Yes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Do you know that these blue and red angels on the painting have a meaning? "
+              },
+              {
+                "text": "Do you know what they represent ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1579684096058",
+      "conditions": "@Yes",
+      "dialog_node": "node_13_1579685017312",
+      "previous_sibling": "node_4_1579684908597"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Well if you have any questions, don't hesitate to ask. And if you still want to help me you can try and scan another painting. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1579684096058",
+      "conditions": "@No",
+      "dialog_node": "node_4_1579684908597"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The red angels are serpahims, they are angels from the highest rank. Their color stands for love and fire. The blue ones are cherubims, they protect God and his property. Their color stand for air and purity."
+              },
+              {
+                "text": "That is all the important information I had. If you want to know more you can always ask me questions. I will hopefully remember it all. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_12_1579684227810",
+      "conditions": "@WrongAnswer",
+      "dialog_node": "node_14_1579684227822",
+      "previous_sibling": "node_13_1579684227822"
+    },
+    {
+      "type": "standard",
+      "title": "Correct",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You are correct again. Just some extra info to explain the title of the painting: The red angels are actually seraphims called and the blue angels cherubims."
+              },
+              {
+                "text": "That is all the important information I had. If you want to know more you can always ask me questions. I will hopefully remember it all. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_12_1579684227810",
+      "conditions": "@CorrectAnswer",
+      "dialog_node": "node_13_1579684227822"
+    },
+    {
+      "type": "standard",
+      "title": "no",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Well their are blue angels and red angels behind her. Do you know that these blue and red angels on the painting have a meaning? "
+              },
+              {
+                "text": "Do you know what they represent ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_3_1579604223872",
+      "conditions": "@No",
+      "dialog_node": "node_7_1579683853431",
+      "previous_sibling": "node_4_1579683777566"
+    },
+    {
+      "type": "standard",
+      "title": "Yes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Well I'm pretty sure you missed an angel. So how many angels can you find on the painting ? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_3_1579604223872",
+      "conditions": "@Yes",
+      "dialog_node": "node_4_1579683777566"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Unfortunately, you're wrong. You couldn't find them all. There are 9 angels on this painting. 3 blue angels and 6 red angels. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_18_1579685047607",
+      "conditions": "anything_else",
+      "dialog_node": "node_20_1579685047607",
+      "previous_sibling": "node_19_1579685047607"
+    },
+    {
+      "type": "standard",
+      "title": "correct",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, correct ! You were able to find them all ! "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_18_1579685047607",
+      "conditions": "@9",
+      "dialog_node": "node_19_1579685047607"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No, you can see that Mary wants to breastfeed him but he is not interested."
+              },
+              {
+                "text": "I'm going to let you look at the painting. Thank you for helping me get my memory back. If you have other questions you can always ask or if you want to help me remember the other paintings that would be amazing."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_10_1579682773513",
+      "conditions": "anything_else",
+      "dialog_node": "node_6_1579683240940",
+      "previous_sibling": "node_5_1579683163003"
+    },
+    {
+      "type": "standard",
+      "title": "Correct",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, that is right. Mary tries to breastfeed him, but he is not interesting. "
+              },
+              {
+                "text": "I'm going to let you look at the painting. Thank you for helping me get my memory back. If you have other questions you can always ask or if you want to help me remember the other paintings that would be amazing."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_10_1579682773513",
+      "conditions": "@child",
+      "dialog_node": "node_5_1579683163003"
+    },
+    {
+      "type": "standard",
+      "title": "Correct",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You are correct again. Just some extra info to explain the title of the painting: The red angels are actually seraphims called and the blue angels cherubims."
+              },
+              {
+                "text": "That is all the important information I had. If you want to know more you can always ask me questions. I will hopefully remember it all. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_6_1579684055826",
+      "conditions": "@CorrectAnswer",
+      "dialog_node": "node_8_1579684055840",
+      "previous_sibling": "node_7_1579684055840"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The red angels are serpahims, they are angels from the highest rank. Their color stands for love and fire. The blue ones are cherubims, they protect God and his property. Their color stand for air and purity."
+              },
+              {
+                "text": "That is all the important information I had. If you want to know more you can always ask me questions. I will hopefully remember it all. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_6_1579684055826",
+      "conditions": "@WrongAnswer",
+      "dialog_node": "node_7_1579684055840"
+    },
+    {
+      "type": "standard",
+      "title": "Correct ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, that is correct. Just some extra info to explain the title of the painting: The red angels are actually seraphims called and the blue angels cherubims."
+              },
+              {
+                "text": "That is all the important information I had. If you want to know more you can always ask me questions. I will hopefully remember it all. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_10_1579618541116",
+      "conditions": "@CorrectAnswer",
+      "dialog_node": "node_2_1579684986239",
+      "previous_sibling": "node_1_1579684982535"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The red angels are serpahims, they are angels from the highest rank. Their color stands for love and fire. The blue ones are cherubims, they protect God and his property. Their color stand for air and purity."
+              },
+              {
+                "text": "That is all the important information I had. If you want to know more you can always ask me questions. I will hopefully remember it all. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_10_1579618541116",
+      "conditions": "@WrongAnswer",
+      "dialog_node": "node_1_1579684982535"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Well now you know."
+              },
+              {
+                "text": "Let's see if you know this too.  When do you think this painting was painted?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1579619115154",
+      "conditions": "@No || @NoIdea",
+      "dialog_node": "node_8_1579683714681",
+      "previous_sibling": "node_4_1579683713086"
+    },
+    {
+      "type": "standard",
+      "title": "Yes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Oh, you are really smart."
+              },
+              {
+                "text": "See if you really are as smart as you seem. When do you think this painting was painted?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1579619115154",
+      "conditions": "@Yes",
+      "dialog_node": "node_4_1579683713086"
+    },
+    {
+      "type": "standard",
+      "title": "BlueRedAnswer",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Well the blue angels represent purity and air."
+              },
+              {
+                "text": "And the red angels represent love and fire."
+              },
+              {
+                "text": "I'm pretty sure you missed an angel. So how many angels can you find on the painting ? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1579683853431",
+      "conditions": "anything_else",
+      "dialog_node": "node_8_1579683853437"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Unfortunately, you're wrong. You couldn't find them all. There are 9 angels on this painting. 3 blue angels and 6 red angels. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_14_1579685017318",
+      "conditions": "anything_else",
+      "dialog_node": "node_16_1579685017318",
+      "previous_sibling": "node_15_1579685017318"
+    },
+    {
+      "type": "standard",
+      "title": "correct",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, correct ! You were able to find them all ! "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_14_1579685017318",
+      "conditions": "@9",
+      "dialog_node": "node_15_1579685017318"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong   ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The six red seraphim are angels from the highest rank, they stand for love and fire."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_11_1579685557870",
+      "conditions": "anything_else",
+      "dialog_node": "node_17_1579685780772",
+      "previous_sibling": "node_16_1579685777815"
+    },
+    {
+      "type": "standard",
+      "title": "Correct  ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, you are right. The three blue cherubims are angels who gard god and his properties. The color stand for purity and air."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_11_1579685557870",
+      "conditions": "@Cherubim",
+      "dialog_node": "node_16_1579685777815"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No, you can see that Mary wants to breastfeed him but he is not interested."
+              },
+              {
+                "text": "I'm going to let you look at the painting. Thank you for helping me get my memory back. If you have other questions you can always ask or if you want to help me remember the other paintings that would be amazing."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_20_1579684760322",
+      "conditions": "anything_else",
+      "dialog_node": "node_22_1579684760333",
+      "previous_sibling": "node_21_1579684760333"
+    },
+    {
+      "type": "standard",
+      "title": "Correct",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, that is right. Mary tries to breastfeed him, but he is not interesting. "
+              },
+              {
+                "text": "I'm going to let you look at the painting. Thank you for helping me get my memory back. If you have other questions you can always ask or if you want to help me remember the other paintings that would be amazing."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_20_1579684760322",
+      "conditions": "@child",
+      "dialog_node": "node_21_1579684760333"
+    },
+    {
+      "type": "standard",
+      "title": "15th century",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Correct ! I see you are smart kid. "
+              },
+              {
+                "text": "Would like me to tell you more about this painting ? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_5_1579604433713",
+      "conditions": "@15thcentury",
+      "dialog_node": "node_4_1579684410066",
+      "previous_sibling": "node_8_1579684096058"
+    },
+    {
+      "type": "standard",
+      "title": "14thcentury",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Unfortunately it is not correct. A century is defined as a 100 year period. And you when a whole period of 100 yars is finished than you are in a new century. So the right answer was the 15th century."
+              },
+              {
+                "text": "Would like me to tell you more about this painting ? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_5_1579604433713",
+      "conditions": "anything_else",
+      "dialog_node": "node_8_1579684096058"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The blue cherubims are angels who protect God and his property. Their color stand for air and purity."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1579612431255",
+      "conditions": "anything_else",
+      "dialog_node": "node_9_1579685410684",
+      "previous_sibling": "node_7_1579685435957"
+    },
+    {
+      "type": "standard",
+      "title": "Correct",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, you are right. The three blue cherubims are angels who gard god and his properties. The color stand for purity and air."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1579612431255",
+      "conditions": "@Cherubim",
+      "dialog_node": "node_7_1579685435957"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No, you can see Jesus on Mary's lap."
+              },
+              {
+                "text": "What do you think that Mary and Jesus are doing in the painting?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1579619216348",
+      "conditions": "@NoIdea",
+      "dialog_node": "node_6_1579682867647",
+      "previous_sibling": "node_10_1579682773513"
+    },
+    {
+      "type": "standard",
+      "title": "Correct",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, that is right, but honestly it was not that hard. "
+              },
+              {
+                "text": "What do you think that Mary and Jesus are doing in the painting?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1579619216348",
+      "conditions": "@Jesus",
+      "dialog_node": "node_10_1579682773513"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No, you can see that Mary wants to breastfeed him but he is not interested."
+              },
+              {
+                "text": "I'm going to let you look at the painting. Thank you for helping me get my memory back. If you have other questions you can always ask or if you want to help me remember the other paintings that would be amazing."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_6_1579682867647",
+      "conditions": "anything_else",
+      "dialog_node": "node_1_1579683510151",
+      "previous_sibling": "node_2_1579683530032"
+    },
+    {
+      "type": "standard",
+      "title": "Correct ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, that is right. Mary tries to breastfeed him, but he is not interesting. "
+              },
+              {
+                "text": "I'm going to let you look at the painting. Thank you for helping me get my memory back. If you have other questions you can always ask or if you want to help me remember the other paintings that would be amazing."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_6_1579682867647",
+      "conditions": "@child",
+      "dialog_node": "node_2_1579683530032"
+    },
+    {
+      "type": "standard",
+      "title": "Correct ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, you almost know as much as me.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "title": "Okay we'll see if you know this too: What is the meaning of the red and blue angels in the background?",
+            "options": [
+              {
+                "label": "They are 2 kind of angels: the red ones are the one of the highest rank. The blue ones guard God and this property.",
+                "value": {
+                  "input": {
+                    "text": "They are 2 kind of angels: the red ones are the one of the highest rank. The blue ones guard God and this property."
+                  }
+                }
+              },
+              {
+                "label": "They all are their to gard Mary and Jesus, the red ones are girls and the blue ones are boys.",
+                "value": {
+                  "input": {
+                    "text": "They all are their to gard Mary and Jesus, the red ones are girls and the blue ones are boys."
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_8_1579683714681",
+      "conditions": "@Date",
+      "dialog_node": "node_15_1579684230923",
+      "previous_sibling": "node_9_1579684105108"
+    },
+    {
+      "type": "standard",
+      "title": "Date ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No, Fouquet painted it between 1454 and 1456."
+              },
+              {
+                "text": "Okay I am going to ask something more difficult: What is the meaning of the red and blue angels in the background?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1579683714681",
+      "conditions": "anything_else",
+      "dialog_node": "node_9_1579684105108"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Okay, no problem. If you have questions you can always ask me."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1579618284885",
+      "conditions": "@No",
+      "dialog_node": "node_6_1579619004238",
+      "previous_sibling": "node_5_1579618993067"
+    },
+    {
+      "type": "standard",
+      "title": "Yes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "He painted it for a nobleman named Etienne Chevalier.  He has worked for Karel VII and Lodewijk IX."
+              },
+              {
+                "text": "Do you know Tours in France?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_6_1579618284885",
+      "conditions": "@Yes",
+      "dialog_node": "node_5_1579618993067"
+    },
+    {
+      "type": "standard",
+      "title": "Yes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Do you know that these blue and red angels on the painting have a meaning? "
+              },
+              {
+                "text": "Do you know what they represent ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_4_1579684410066",
+      "conditions": "@Yes",
+      "dialog_node": "node_17_1579685047602",
+      "previous_sibling": "node_12_1579684984732"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Well if you have any questions, don't hesitate to ask. And if you still want to help me you can try and scan another painting. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1579684410066",
+      "conditions": "@No",
+      "dialog_node": "node_12_1579684984732"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Unfortunately, you're wrong. You couldn't find them all. There are 9 angels on this painting. 3 blue angels and 6 red angels. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1579683777566",
+      "conditions": "anything_else",
+      "dialog_node": "node_6_1579683777572",
+      "previous_sibling": "node_5_1579683777572"
+    },
+    {
+      "type": "standard",
+      "title": "correct",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, correct ! You were able to find them all ! "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1579683777566",
+      "conditions": "@9",
+      "dialog_node": "node_5_1579683777572"
+    },
+    {
+      "type": "standard",
+      "title": "JeanFouquet",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Jean Fouquet is a painter of the 15th century. He painted this masterpiece, the \"Madonna surrounded by seraphim and cherubim\"."
+              },
+              {
+                "text": "If you want you can ask me more questins that is good for my memory."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1579620209189",
+      "conditions": "#JeanFouquet",
+      "dialog_node": "node_10_1579620372079"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "This one was harder. The red angels are serpahims, they are angels from the highest rank. Their color stands for love and fire. The blue ones are cherubims, they protect God and his property. Their color stand for air and purity."
+              },
+              {
+                "text": "That is all the important information I had. If you want to know more you can always ask me questions. I will hopefully remember it all. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_3_1579616147190",
+      "conditions": "@WrongAnswer",
+      "dialog_node": "node_1_1579617574028",
+      "previous_sibling": "node_6_1579617474730"
+    },
+    {
+      "type": "standard",
+      "title": "Correct",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You are correct again. Just some extra info to explain the title of the painting: The red angels are actually seraphims called and the blue angels cherubims."
+              },
+              {
+                "text": "That is all the important information I had. If you want to know more you can always ask me questions. I will hopefully remember it all. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_3_1579616147190",
+      "conditions": "@CorrectAnswer",
+      "dialog_node": "node_6_1579617474730"
+    },
+    {
+      "type": "standard",
+      "title": "Correct ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, that is correct. Just some extra info to explain the title of the painting: The red angels are actually seraphims called and the blue angels cherubims."
+              },
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_4_1579618395583",
+      "conditions": "@CorrectAnswer",
+      "dialog_node": "node_19_1579684409375",
+      "previous_sibling": "node_18_1579684406083"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The red angels are serpahims, they are angels from the highest rank. Their color stands for love and fire. The blue ones are cherubims, they protect God and his property. Their color stand for air and purity."
+              },
+              {
+                "text": "That is all the important information I had. If you want to know more you can always ask me questions. I will hopefully remember it all. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_4_1579618395583",
+      "conditions": "@WrongAnswer",
+      "dialog_node": "node_18_1579684406083"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No, you can see that Mary wants to breastfeed him but he is not interested."
+              },
+              {
+                "text": "I'm going to let you look at the painting. Thank you for helping me get my memory back. If you have other questions you can always ask or if you want to help me remember the other paintings that would be amazing."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_26_1579684812343",
+      "conditions": "anything_else",
+      "dialog_node": "node_28_1579684812355",
+      "previous_sibling": "node_27_1579684812355"
+    },
+    {
+      "type": "standard",
+      "title": "Correct",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, that is right. Mary tries to breastfeed him, but he is not interesting. "
+              },
+              {
+                "text": "I'm going to let you look at the painting. Thank you for helping me get my memory back. If you have other questions you can always ask or if you want to help me remember the other paintings that would be amazing."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_26_1579684812343",
+      "conditions": "@child",
+      "dialog_node": "node_27_1579684812355"
+    },
+    {
+      "type": "standard",
+      "title": "Wrong",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "That is not right. The colors were very popular at that time. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1579686382134",
+      "conditions": "anything_else",
+      "dialog_node": "node_1_1579686587831",
+      "previous_sibling": "node_9_1579686490206"
+    },
+    {
+      "type": "standard",
+      "title": "Correct",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Very good."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1579686382134",
+      "conditions": "@popular",
+      "dialog_node": "node_9_1579686490206"
+    },
+    {
+      "type": "standard",
+      "title": "LikeThisPainter",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Interesting choice. "
+              },
+              {
+                "text": "And what do you know about Jean Fouquet ? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_4_1579596879201",
+      "conditions": "@ILike",
+      "dialog_node": "node_8_1579620209189"
+    },
+    {
+      "type": "standard",
+      "title": "MadonnaLive",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "To be honest I don't remember that anymore. I just know that the Madonna in the painting is actually Mary."
+              },
+              {
+                "text": "Who do you think is sitting on her lap?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#MadonnaLive",
+      "dialog_node": "node_7_1579619216348",
+      "previous_sibling": "node_2_1579684622859"
+    },
+    {
+      "type": "standard",
+      "title": "WherePainting",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Unfortunately since the accident I lost all my knowledge about the paintings. So I do not know where this painting exactly is. But you can probably find them all around the museum. "
+              },
+              {
+                "text": "If you want you can ask me more questins that is good for my memory."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#WherePainting",
+      "dialog_node": "node_4_1579600931528",
+      "previous_sibling": "node_8_1579602819883"
+    },
+    {
+      "type": "standard",
+      "title": "Weather",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The weather in Belgium is pretty bad. It is always raining and cold."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Weather",
+      "dialog_node": "node_3_1579517961809",
+      "previous_sibling": "node_8_1579518123152"
+    },
+    {
+      "type": "standard",
+      "title": "JeanFouquet",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Jean Fouquet is a painter of the 15th century. He painted this masterpiece, the \"Madonna surrounded by seraphim and cherubim\"."
+              },
+              {
+                "text": "Take a good look at the painting and if you have any questions, just ask me."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#JeanFouquet",
+      "dialog_node": "node_8_1579618062435",
+      "previous_sibling": "node_4_1579618176884"
+    },
+    {
+      "type": "standard",
+      "title": "Bye",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Bye, hopefully you will come back soon. I still need your help to get more of my memory back. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Bye",
+      "dialog_node": "node_10_1579612702208",
+      "previous_sibling": "node_4_1579615632409"
+    },
+    {
+      "type": "standard",
+      "title": "Joke",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Woman to her husband while at it: \"Please say dirty things to me!\"\n\nMan: \"Bath, Kitchen, Living room...\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Joke",
+      "dialog_node": "node_1_1579596819114",
+      "previous_sibling": "node_7_1579596843766"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I'm sorry I had an accident and I do not remember a lot since. Can you repeat or try rephrasing please? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "digress_in": "does_not_return",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_3_1579516492425",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Cherubims",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The three blue cherubims are angels who gard god and his properties. The color stand for purity and air."
+              },
+              {
+                "text": "This will also interest you. What do you think is the meaning for the red angels?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Cherubim || #NoSeraphims",
+      "dialog_node": "node_9_1579612388447",
+      "previous_sibling": "node_10_1579612702208"
+    },
+    {
+      "type": "standard",
+      "title": "Age",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I was born in 1994, so this mean I am turning 26 this year. "
+              },
+              {
+                "text": "And you how old are you ? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Age",
+      "dialog_node": "node_6_1579597254745",
+      "previous_sibling": "node_4_1579597275745"
+    },
+    {
+      "type": "standard",
+      "title": "Animal",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, I like horses. And you what is your favorite animal ? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Animal",
+      "dialog_node": "node_4_1579597275745",
+      "previous_sibling": "node_2_1579597328268"
+    },
+    {
+      "type": "standard",
+      "title": "Seraphims",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The six red seraphim are angels from the highest rank, they stand for love and fire."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "values": [
+              {
+                "text": "This will also interest you. What do you think is the meaning of the blue angels?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Question8",
+      "dialog_node": "node_8_1579612431255",
+      "previous_sibling": "node_9_1579612388447"
+    },
+    {
+      "type": "standard",
+      "title": "DateMadonna",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It was painted between 1454 and 1456."
+              },
+              {
+                "text": "Does this mean it was painted in the: 14th or 15th century?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#DateMadonna && @Madonna",
+      "dialog_node": "node_5_1579604433713",
+      "previous_sibling": "node_1_1579609779188"
+    },
+    {
+      "type": "standard",
+      "title": "Difference",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The red angels are seraphims, thay are angels from the highest rank. Their color stands for love and fire. The blue angels are angels that protect god and his property. Their color stands for air and purity."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Difference",
+      "dialog_node": "node_8_1579690900987",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Thanking",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Well thank you for helping me get my knowledge back ! "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Thanking",
+      "dialog_node": "node_2_1579597328268",
+      "previous_sibling": "node_2_1579598615213"
+    },
+    {
+      "type": "standard",
+      "title": "RedAndBlue",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The red and blue angels are typical of Italian painting in the 14th and 15th centuries. These colors are typical for that time."
+              },
+              {
+                "text": "What do you think is the meaning of the red angels?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#RedAndBlue",
+      "dialog_node": "node_1_1579609779188",
+      "previous_sibling": "node_10_1579609975544"
+    },
+    {
+      "type": "standard",
+      "title": "Crown",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Her cloak and her crown point up her excellence."
+              },
+              {
+                "text": "I have also a question for you. As you can see there are blue and red angels in the background. What do you think they mean?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Crown",
+      "dialog_node": "node_10_1579618541116",
+      "previous_sibling": "node_1_1579618684831"
+    },
+    {
+      "type": "standard",
+      "title": "Museum",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I really love this museum. All my favorite paintings are here. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Museum",
+      "dialog_node": "node_9_1579597217904",
+      "previous_sibling": "node_6_1579597254745"
+    },
+    {
+      "type": "standard",
+      "title": "WhatMadonnaDoing",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Madonna is breast feeding the baby on her lap. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#WhatMadonnaDoing && @Madonna",
+      "dialog_node": "node_7_1579616157090",
+      "previous_sibling": "node_10_1579616592663"
+    },
+    {
+      "type": "standard",
+      "title": "BestWork",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Madonna Surrounded by Seraphim and Cherubim is one of Fouquet’s finest works."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#BestWork",
+      "dialog_node": "node_10_1579616592663",
+      "previous_sibling": "node_3_1579616750538"
+    },
+    {
+      "type": "standard",
+      "title": "HelpChatbot",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Since the accident I didn't see any of these beautiful paintings. Maybe if I get to see these I will remember ! Try and scan the painting using the photo icon to help me! "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#HelpChatbot",
+      "dialog_node": "node_2_1579517115051",
+      "previous_sibling": "node_1_1579517266269"
+    },
+    {
+      "type": "standard",
+      "title": "Where",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We are in the KMSKA. It is a museum here in Antwerp. Here you can find Rubens, Van Eyck, Fouquet, Ensor, Magritte and other great names besides."
+              },
+              {
+                "text": "If you want you can ask me more questins that is good for my memory."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Where",
+      "dialog_node": "node_8_1579518123152",
+      "previous_sibling": "node_1_1579596819114"
+    },
+    {
+      "type": "standard",
+      "title": "LearnMore",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Do you know that these blue and red angels on the painting have a meaning? "
+              },
+              {
+                "text": "Do you know what they represent ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#LearnMore",
+      "dialog_node": "node_8_1579602819883",
+      "previous_sibling": "node_3_1579604223872"
+    },
+    {
+      "type": "standard",
+      "title": "Measures",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It is 94 x 85 cm."
+              },
+              {
+                "text": "If you have other questions you can always ask me, that is good for my memory."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#MeasuresMadonna",
+      "dialog_node": "node_9_1579687049816",
+      "previous_sibling": "node_8_1579690900987"
+    },
+    {
+      "type": "standard",
+      "title": "Elements on painting",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "On the painting you see Mary with Jesus sitting on her lap. They sit on a well decorated throne. Mary is wearing a crown. You can also see 6 red angels and 3 blue angels in the background.   "
+              },
+              {
+                "text": "I will ask you something too: Do you have any idea what the meaning is of the colors of the angels?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#WhatCanYouSee",
+      "dialog_node": "node_4_1579618395583",
+      "previous_sibling": "node_10_1579618541116"
+    },
+    {
+      "type": "standard",
+      "title": "What is special",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Mary is normally the perfect woman, but Fouqeut wants Mary to look more like a real woman you see on street everyday. "
+              },
+              {
+                "text": "Who do you think is sitting on Mary's lap?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#WhatIsSpecial",
+      "dialog_node": "node_1_1579618684831",
+      "previous_sibling": "node_7_1579619115154"
+    },
+    {
+      "type": "standard",
+      "title": "BestPainter",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I really like Leonardo Da Vinci."
+              },
+              {
+                "text": "And you do you have a favorite artist ? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#bestPainter",
+      "dialog_node": "node_4_1579596879201",
+      "previous_sibling": "node_9_1579597217904"
+    },
+    {
+      "type": "standard",
+      "title": "Toilet",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Well I'm pretty sure there is a toilet at the entrance and also at the exit of the museum."
+              },
+              {
+                "text": "If you want to ask me that is good for my memory."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Toilet",
+      "dialog_node": "node_2_1579598615213",
+      "previous_sibling": "node_4_1579600931528"
+    },
+    {
+      "type": "standard",
+      "title": "#WhyLikeMadonna",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "This painting is famous for her Madonna her beauty. "
+              },
+              {
+                "text": "Did you also realise there were angels behind her ? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#WhyLikeMadonna",
+      "dialog_node": "node_3_1579604223872",
+      "previous_sibling": "node_5_1579604433713"
+    },
+    {
+      "type": "standard",
+      "title": "Famous",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "She was famous for her beauty."
+              },
+              {
+                "text": "If you want you can ask me more questins that is good for my memory."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Famous",
+      "dialog_node": "node_9_1579612283949",
+      "previous_sibling": "node_8_1579612431255"
+    },
+    {
+      "type": "standard",
+      "title": "DieJeanFouquet",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Jean Fouquet lived from ca. 1420–1481."
+              },
+              {
+                "text": "Did you know that he grew up in Tours in France?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#DieJeanFouquet",
+      "dialog_node": "node_7_1579619115154",
+      "previous_sibling": "node_7_1579619216348"
+    },
+    {
+      "type": "standard",
+      "title": "Madonna",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The woman on the painting is called Madonna. She is known as a sensual and fashionable woman."
+              },
+              {
+                "text": "If you want you can ask me more questins that is good for my memory."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Madonna && @Madonna",
+      "dialog_node": "node_10_1579609975544",
+      "previous_sibling": "node_9_1579612283949"
+    },
+    {
+      "type": "standard",
+      "title": "HowAreYou",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am fine just a little bit sad I forgot all the other paintings."
+              },
+              {
+                "text": "Hopefully I will remember."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#HowAreYou",
+      "dialog_node": "node_6_1579617161832",
+      "previous_sibling": "node_7_1579617552581"
+    },
+    {
+      "type": "standard",
+      "title": "StoryDumbChatbot",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I had an accident a week ago. I was in a car driving one of my paintings the \"Mona Lisa\" to the museum. And we had an accident with another car! "
+              },
+              {
+                "text": "I used to be the best guide of the KMSKA. But now they have to fire me because I forgot everything about the paintings. Do you think you can help me ? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#StoryDumbChatbot",
+      "dialog_node": "node_8_1579516834771",
+      "previous_sibling": "node_2_1579517115051"
+    },
+    {
+      "type": "standard",
+      "title": "UseOfApp",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "With this app you can learn more about all the paintings by chatting with me. But first you need to help me get my knowledge back. Can you scan a painting, maybe this can help me."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#UseOfApp",
+      "dialog_node": "node_2_1579517706065",
+      "previous_sibling": "node_3_1579517961809"
+    },
+    {
+      "type": "standard",
+      "title": "HowScan",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "To get my knowledge back you can use the photo icon to scan a painting. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#HowScan",
+      "dialog_node": "node_1_1579517266269",
+      "previous_sibling": "node_2_1579517706065"
+    },
+    {
+      "type": "standard",
+      "title": "When",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "This beautiful painting has been here since 1841."
+              },
+              {
+                "text": "Do you have any idea when it was made?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#KMSKA",
+      "dialog_node": "node_4_1579618176884",
+      "previous_sibling": "node_6_1579618284885"
+    },
+    {
+      "type": "standard",
+      "title": "MadonnaChild",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The baby on Madonna's lap is Jesus. Madonna is giving a breast feeding. But the child is not interested."
+              },
+              {
+                "text": "Do you want me to ask you some questions so you can learn more about the painting?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#MadonnaChild && @child",
+      "dialog_node": "node_3_1579616750538",
+      "previous_sibling": "node_6_1579617161832"
+    },
+    {
+      "type": "standard",
+      "title": "Name",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "My name is Leonardo Da Vinci, but you can call me Leo. "
+              },
+              {
+                "text": "And how should I call you ? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Name",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_3_1579516492425",
+      "previous_sibling": "node_8_1579516834771"
+    },
+    {
+      "type": "standard",
+      "title": "Story",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Maria has always been seen as the perfect woman, but fouqeut wanted to show her as a real woman that you would meet on the street. "
+              },
+              {
+                "text": "Do you know who is sitting on her lap?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#StoryMadonna",
+      "dialog_node": "node_2_1579684622859",
+      "previous_sibling": "node_9_1579687049816"
+    },
+    {
+      "type": "standard",
+      "title": "Buyer",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The first one to buy the painting was a real knight named Florent van Ertborn."
+              },
+              {
+                "text": "Do you also want to know for who this painting was made in the beginning?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Buyer",
+      "dialog_node": "node_6_1579618284885",
+      "previous_sibling": "node_4_1579618395583"
+    },
+    {
+      "type": "standard",
+      "title": "MuseumClose",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The museum is only open from monday to friday and the opening hours are : "
+              },
+              {
+                "text": "09:00 - 12:30\n13:30 - 16:30"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#MuseumClose",
+      "dialog_node": "node_7_1579617552581",
+      "previous_sibling": "node_8_1579618062435"
+    },
+    {
+      "type": "standard",
+      "title": "Angels",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "There our 9 angels in total. 6 red angels and 3 blue angels. "
+              },
+              {
+                "text": "Do you know what these colours represent ? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Angels",
+      "dialog_node": "node_4_1579615632409",
+      "previous_sibling": "node_7_1579616157090"
+    },
+    {
+      "type": "standard",
+      "title": "Hobbies",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think it is pretty obvious that I like to paint."
+              },
+              {
+                "text": "And do you have any hobbies ? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Hobbies && @Hobby",
+      "dialog_node": "node_7_1579596843766",
+      "previous_sibling": "node_4_1579596879201"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Oh yeah, I remember this painting is \"Madonna surrounded by seraphim and cherubim \" of Jean Fouquet. "
+              },
+              {
+                "text": "It is a very nice painting don't you think ? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title"
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "MadonnaTest",
+  "language": "en",
+  "description": ""
+}
